@@ -1,5 +1,5 @@
 # rubygems_finder
-This is a Rails Application to get used to get used to Ruby3.0!
+This is a Rails Application to get used to Ruby3.0!
 
 ### 以下の記事を参考にする予定
 - [Ruby 3.0 の Ractor を自慢したい](https://techlife.cookpad.com/entry/2020/12/26/131858)
